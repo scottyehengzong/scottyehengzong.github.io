@@ -1,0 +1,10 @@
+---
+title: "About myself"
+description: |
+  I am a current junior in Macalester College majored in Applied Math and Computer Science.
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+

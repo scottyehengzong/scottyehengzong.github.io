@@ -1,0 +1,29 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About myself",
+      "description": "I am a current junior in Macalester College majored in Applied Math and Computer Science.",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-12-17T08:58:08-06:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Yeheng Zong",
+      "description": "Welcome to the website. This a demo portfolio for Yeheng Zong. I hope you enjoy it!\n",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-12-17T08:58:09-06:00"
+    },
+    {
+      "path": "projects.html",
+      "title": "Projects",
+      "description": "This page includes some projects I did.\n",
+      "author": [],
+      "contents": "\r\nIn my sophomore year, I develop a game called Frozen Bubbles with Zefan Qian and Yiyang Shi in Java. Paul Cantrell provided significant helps to us when we were developing. Here is the link to the github page of our Frozen Bubbles.\r\nIn my junior year, I did a project with Zhaoheng Li about non-parametric Bayes and its application in survival analysis. We received significant helps from Alicia Johnson. Here is the link to our bookdown.\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-12-17T08:58:10-06:00"
+    }
+  ],
+  "collections": []
+}
