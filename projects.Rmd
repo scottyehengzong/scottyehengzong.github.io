@@ -5,7 +5,7 @@ description: |
 site: distill::distill_website
 ---
 
-In my sophomore year, I develop a game called Frozen Bubbles with Zefan Qian and Yiyang Shi in Java. Paul Cantrell provided significant helps to us when we were developing. [Here](https://github.com/mac-comp127-f20-m1/Frozen-Bubble-Yeheng-Zefan-Yiyang) is the link to the github page of our Frozen Bubbles.
+In my sophomore year, I developed a game called Frozen Bubbles with Zefan Qian and Yiyang Shi in Java. Paul Cantrell provided significant helps to us when we were developing. [Here](https://github.com/mac-comp127-f20-m1/Frozen-Bubble-Yeheng-Zefan-Yiyang) is the link to the github page of our Frozen Bubbles.
 
 
 In my junior year, I did a project with Zhaoheng Li about non-parametric Bayes and its application in survival analysis. We received significant helps from Alicia Johnson. [Here](zhli12.github.io/dirichletmixturesurvival/) is the link to our bookdown.
